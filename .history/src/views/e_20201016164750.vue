@@ -1,7 +1,6 @@
 <template>
-  <div>eeeee
-    <p>ggg</p>
-  </div>
+  <div>eeeee</div>
+  <div>fff</div>
 </template>
 
 <script>

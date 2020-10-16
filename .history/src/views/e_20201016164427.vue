@@ -1,7 +1,5 @@
 <template>
-  <div>eeeee
-    <p>ggg</p>
-  </div>
+  <div>eeeee</div>
 </template>
 
 <script>
